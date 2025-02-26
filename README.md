@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaykhosa&label=Profile%20views&color=0e75b6&style=flat" alt="kaykhosa" /> </p>
 
 
-- 🌱 I’m currently learning **Python and Angualar**
+- 🌱 I’m currently learning **Python and Angular**
 
 - 👨‍💻 All of my projects are available at [https://kulaniportfolio.netlify.app/](https://kulaniportfolio.netlify.app/)
 
